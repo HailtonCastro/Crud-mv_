@@ -1,0 +1,40 @@
+<nav class="navbar bg-dark navbar-dark">
+  <a class="navbar-brand mr-0" href="#">CRUD-MV</a>
+</nav>
+<div class="container-fluid">
+  <div class="row">
+    <div class="sidebar col-md-2">
+      <nav>
+        <ul class="nav flex-column">
+          <li class="nav-item">
+            
+            <a 
+              class="nav-link" 
+              [routerLink]="['/profissional']" 
+              routerLinkActive="router-link-active" >
+              <i class="fa fa-users"></i>
+              Profissional
+            </a>
+          </li>
+          <li class="nav-item">
+           
+            <a 
+              class="nav-link" 
+              href=""
+              [routerLink]="['/estabelecimento']" routerLinkActive="router-link-active" 
+              >
+              <i class="fa fa-fort-awesome"></i>
+              Estabelecimento
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+    <div class="col-md-10">
+      <main>
+        <router-outlet></router-outlet>
+      </main>
+    </div>
+  </div>
+  
+</div>
