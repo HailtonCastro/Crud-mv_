@@ -7,6 +7,7 @@
   - Angular
   - Bootstrap
   - FontWasome
+  - Deploy Firebase 
  
  
  ## Back-end
