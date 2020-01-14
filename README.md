@@ -7,11 +7,12 @@
   - Angular
   - Bootstrap
   - FontWasome
-  - Deploy no Firebase
+ 
  
  ## Back-end
   - Spring Tools Suite
   - Spring boot
   - Java 8
   - PostgreSQL
+  
   
