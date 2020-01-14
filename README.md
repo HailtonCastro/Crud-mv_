@@ -8,6 +8,7 @@
   - Bootstrap
   - FontWasome
   - Deploy Firebase 
+  - URL: https://crud-mv.firebaseapp.com/profissional
  
  
  ## Back-end
@@ -15,5 +16,7 @@
   - Spring boot
   - Java 8
   - PostgreSQL
+  - Deploy Heroku 
+  - URL: https://cryptic-everglades-29135.herokuapp.com/estabelecimento/
   
   
